@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Stay updated with the latest productivity tips, industry insights, and exclusive offers by subscribing to our newsletter. Enhance your work experience effortlessly!",
+        "emailLabel": "Your Best Email",
+        "heading": "Unlock the Full Potential of Your Worklife"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife.",
+        "title": "Worklife: Transform Your Daily Grind into a Productive Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Worklife: Transform Your Daily Grind into a Productive Journey",
+  "subtitle": "Experience seamless integration, powerful tools, and a community-driven approach to optimizing your work-life balance. Elevate your everyday and conquer your goals with Worklife."
+}
